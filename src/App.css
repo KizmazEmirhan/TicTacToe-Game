@@ -1,0 +1,28 @@
+button {
+    padding: 15px , 32px;
+    background-color: palegoldenrod;
+    border-radius: 5px;
+    border-color: rgb(105, 36, 36);
+}
+.square{
+    padding: 15px,32px;
+    background-color:palegoldenrod;
+    width: 25px;
+    height: 25px;
+    border-radius: 8px;
+    border-color: rgb(105, 36, 36);
+     
+}
+.board-row{
+    border-radius:7px ;
+    background-color: rgb(141, 50, 50);
+    width: 75px;
+   
+}
+.status{
+    border-color:  rgb(105, 36, 36) ;
+    background-color: palegoldenrod;
+    border-radius: 5px;
+    width: 107px;
+   
+}
